@@ -1,3 +1,14 @@
 body{
     background-color: aqua;
 }
+
+h1{
+    color: black;
+    texto-align:center;
+    font: weight 30px;
+}
+p{
+    color: black;
+    text-align: center;
+    font-size: 25px;
+}
